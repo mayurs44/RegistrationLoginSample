@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RegistrationLoginSample</string>
+    <string-array name="user_type">
+        <item>Select User Type</item>
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+</resources>
